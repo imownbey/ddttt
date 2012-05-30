@@ -1,4 +1,5 @@
 gifs = ["http://i.minus.com/ibzznoCimwYGmF.gif",
+"http://25.media.tumblr.com/tumblr_m4rz1h2Lw21qdlh1io1_400.gif",
 "http://i.imgur.com/wS3go.gif",
 "http://i.imgur.com/zlsOk.gif",
 "http://24.media.tumblr.com/tumblr_m4pi6zzULv1rvbkxzo1_500.gif",
