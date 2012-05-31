@@ -53,7 +53,11 @@ gifs = ["http://i.minus.com/ibzznoCimwYGmF.gif",
 "http://25.media.tumblr.com/tumblr_m2kvomtNgy1rslhj4o1_500.gif",
 "http://25.media.tumblr.com/tumblr_m2nfxvd5EK1qaaf7to1_500.gif",
 "http://25.media.tumblr.com/tumblr_m408vtndgV1r2ni29o1_500.gif",
-"http://25.media.tumblr.com/tumblr_m44vm2aBmg1r4fycuo1_r1_400.gif"]
+"http://25.media.tumblr.com/tumblr_m44vm2aBmg1r4fycuo1_r1_400.gif",
+"http://24.media.tumblr.com/tumblr_m4ow26LyEO1r2inyxo1_500.gif",
+"http://24.media.tumblr.com/tumblr_m0w8fdAA5F1r5r4uyo1_r1_500.gif",
+"http://images3.wikia.nocookie.net/__cb20090112213504/uncyclopedia/images/5/5d/Bill_Gates_and_Steve_Ballmer_dance.GIF",
+"http://25.media.tumblr.com/tumblr_m4tm5uXrWu1qbxzmzo2_500.gif"]
 header =<<-EOD
 <html>
   <head>
